@@ -18,7 +18,7 @@ const config = {
   auth0Logout: true,
   secret:
     "Q6iu4rKyYhhDM8T2J9gvXnzya7GBHmEpbtvv1AKm7978cVIrLEOFXckQMSQWNsQQP90jS6EqY537SJgx1nSdYA0hCyhgMjG1H1rc",
-  baseURL: "http://localhost:8081",
+  baseURL: "http://localhost:3000",
   clientID: "WJzHJ63MxxsMBgPdW8Bh0ba3ZfwN580q",
   issuerBaseURL: "https://oanhne.us.auth0.com",
 };
